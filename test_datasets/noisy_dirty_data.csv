@@ -1,0 +1,16 @@
+Student_ID,Name,Python,Mathematics,Statistics,Data_Analysis,English
+N001,Aarav Patel,85,78,90,88,76
+N002,Diya Shah,85 ,80,82 ,79,91
+N003,Rohan Mehta,72,,65,70,68
+N004,Ananya Iyer,90,88,AB,92,85
+N004,Ananya Iyer,90,88,AB,92,85
+N005,Kabir Singh,-5,60,55,62,70
+N006,Isha Desai,105,95,98,100,92
+N007,Vihaan Joshi,120,75,80,78,85
+N005,Kabir Duplicate ID,66,61,58,63,71
+N008,Meera Nair,seventy,72,68,75,80
+N009,  Priya Sharma  ,88,85 ,  90,84,N/A
+N010,,60,58,,62,64
+N011,Neel Trivedi,,,,,
+N012,Sneha Kulkarni,78.5,70,abc,66,-
+N013,Yash Verma,55,52,-10,58,101

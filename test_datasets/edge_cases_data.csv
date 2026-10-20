@@ -1,0 +1,13 @@
+Student_ID,Name,Python,Mathematics,Statistics,Data_Analysis,English
+E001,Min Pass All,35,35,35,35,35
+E002,Borderline Fail Python,34,60,60,60,60
+E003,Borderline Fail English,70,70,70,70,34
+E004,Perfect Centum,100,100,100,100,100
+E005,Near Centum,100,100,100,100,99
+E006,Zero Scorer,0,0,0,0,0
+E007,Single Zero,0,90,90,90,90
+E008,Tie Alpha,80,70,60,50,90
+E009,Tie Beta,90,50,70,60,80
+E010,Tie Gamma,60,80,90,70,50
+E011,Mixed Extremes,100,0,100,0,100
+E012,All 34 Fail,34,34,34,34,34
